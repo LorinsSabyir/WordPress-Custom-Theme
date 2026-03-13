@@ -24,7 +24,7 @@ xmlrpc.php
 # Ignore all files in the wp-content directory except for the uploads directory
 wp-content/mu-plugins
 wp-content/plugins
-wp-content/themes
+wp-content/uploads
 wp-content/index.php
 
 # Ignore all files in the Themes directory except for the RoadWatchBlog
